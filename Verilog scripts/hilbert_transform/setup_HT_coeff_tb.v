@@ -1,11 +1,4 @@
-/*
 
- setup_HT_coeff_tb.v
- --------------
- By: Augustas Jackevic
- Date: June 2021
-
- Module Description:
  -------------------
  This module is a test bench for the script setup_HT_coeff_tb. It reads the output of 
  module and compares it with the expected values. The results of the test bench are then 
