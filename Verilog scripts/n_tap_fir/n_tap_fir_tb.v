@@ -1,11 +1,4 @@
-/*
 
- n_tap_fir_tb.v
- --------------
- By: Augustas Jackevic
- Date: 10th Feb 2021
-
- Module Description:
  -------------------
  This module is a test bench for the module n_tap_fir.v. The test bench 
  sets the coefficients of the dut module by calling and passing through
