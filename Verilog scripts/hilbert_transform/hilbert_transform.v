@@ -1,9 +1,3 @@
-/*
-
- hilbert_transform.v
- --------------
- By: Augustas Jackevic
- Date: June 2021
 
  Module Description:
  -------------------
