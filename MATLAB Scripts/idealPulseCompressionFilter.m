@@ -1,9 +1,4 @@
-% idealPulseCompressionFilter.m
-% --------------
-% By: Augustas Jackevic
-% Date: April 2021
 
-% Script Description:
 % -------------------
 % This script shows the general concept of a pulse compression filter.
 % Observe the different plots to see the required signals at different
