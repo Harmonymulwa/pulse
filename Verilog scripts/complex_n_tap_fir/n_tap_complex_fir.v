@@ -1,9 +1,3 @@
-/*
-
- n_tap_complex_fir.v
- --------------
- By: Augustas Jackevic
- Date: February 2021
 
  Module Description:
  -------------------
