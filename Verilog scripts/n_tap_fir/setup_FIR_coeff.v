@@ -1,11 +1,4 @@
-/*
 
- setup_FIR_coeff.v
- --------------
- By: Augustas Jackevic
- Date: June 2021
-
- Module Description:
  -------------------
  This module sets up the coeff for the FIR filter. When setting the coeff
  make sure all the coefficient up to the value of LENGTH are set and are at a bit width
