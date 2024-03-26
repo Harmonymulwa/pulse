@@ -1,11 +1,4 @@
-/*
 
- read_MIF_file_tb.v
- --------------
- By: Augustas Jackevic
- Date: July 2021
-
- Module Description:
  -------------------
  This module is a test bench for the module setup_MF_coeff. It connects to the instantiated 
  module. The test bench reads the first and last 5 values of the MIF files and checks wheather 
