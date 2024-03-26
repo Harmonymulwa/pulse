@@ -1,11 +1,4 @@
-/*
 
- pulse_compression_filter.v
- --------------
- By: Augustas Jackevic
- Date: July 2021
-
- Module Description:
  -------------------
  This module creates the pulse compression filter. The main blocks that create the filter is the 
  Hilbert transform (hilbert_transform), matched filter (n_tap_complex_fir), and the abs calculation
