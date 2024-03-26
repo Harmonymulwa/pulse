@@ -1,8 +1,4 @@
-% squareRootCal.m
-% --------------
-% By: Augustas Jackevic
-% Date: July 2021
-% Script Description:
+
 % -------------------
 % This script calculates the square root value of the provided inputData 
 % value. This is achieved through the usage of the non-restoring square root 
