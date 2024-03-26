@@ -1,9 +1,4 @@
-% FPGAPulseCompressionFilter.m
-% --------------
-% By: Augustas Jackevic
-% Date: April 2021
 
-% Script Description
 % -------------------
 % This script shows the general concept of a pulse compression filter.
 % Appart from the signal generation and the usage of FIR and complex FIR
