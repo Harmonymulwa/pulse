@@ -1,9 +1,4 @@
-/*
 
- absolute_value.v
- --------------
- By: Augustas Jackevic
- Date: July 2021
 
  Module Description:
  -------------------
