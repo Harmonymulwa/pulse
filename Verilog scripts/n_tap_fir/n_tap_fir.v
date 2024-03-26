@@ -1,12 +1,4 @@
-/*
 
- n_tap_fir.v
- --------------
- By: Augustas Jackevic
- Date: February 2021
-
- Module Description:
- -------------------
  This module is a design of an n-type FIR (Finite Impulse Response)
  filter. This filter is the convolution operation between the
  input data (dataIn) and the coefficient data (coeffIn). The
