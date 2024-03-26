@@ -1,11 +1,4 @@
-/*
 
- setup_HT_coeff.v
- --------------
- By: Augustas Jackevic
- Date: June 2021
-
- Module Description:
  -------------------
  This module sets up the coefficients for the hilbert transform filter. When setting 
  the coefficients make sure all the coefficient up to the value of LENGTH are set 
