@@ -1,9 +1,3 @@
-/*
-
- setup_complex_FIR_coeff_tb.v
- --------------
- By: Augustas Jackevic
- Date: June 2021
 
  Module Description:
  -------------------
