@@ -1,11 +1,4 @@
-/*
 
- pulse_compression_filter_tb.v
- --------------
- By: Augustas Jackevic
- Date: July 2021
-
- Module Description:
  -------------------
  This module is a test bench for the module pulse_compression_filter_tb.v. The script
  imports the MATLAB pulse compression filter output MIF file and compares
