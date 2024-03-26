@@ -1,9 +1,3 @@
-/*
-
- square_root_cal_tb.v
- --------------
- By: Augustas Jackevic
- Date: July 2021
 
  Module Description:
  -------------------
