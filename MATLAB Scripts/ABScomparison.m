@@ -1,9 +1,4 @@
-% ABScomparison.m
-% --------------
-% By: Augustas Jackevic
-% Date: July 2021
-% Script Description:
-% -------------------
+
 % This script compares the different methods of acquiring an absolute value
 % (abs) of complex numbers. Three different sets of alpha max plus beta min
 % algorithms are implemented (bete = 1/2, 1/4, and 3/8), with a different 
